@@ -2,7 +2,7 @@
 
 ### On your new server run:
 ```bash
-sudo bash <(curl -Ls https://raw.githubusercontent.com/rasim-gh/xui-migation/master/migrator.sh)
+sudo bash <(curl -Ls https://raw.githubusercontent.com/rasim-gh/x-ui/blob/main/migrator.sh)
 ```
 and follow the instructions.
 
@@ -19,7 +19,7 @@ You can pass the credentials of your old server to the script for one-line migra
 
 ### One-line migration example
 ```bash
-sudo bash <(curl -Ls https://raw.githubusercontent.com/rasim-gh/xui-migation/master/migrator.sh) -s 192.168.1.1 -u root -p MyPaSsWoEd
+sudo bash <(curl -Ls https://raw.githubusercontent.com/rasim-gh/x-ui/blob/main/migrator.sh) -s 192.168.1.1 -u root -p MyPaSsWoEd
 ```
 
 ## ~
